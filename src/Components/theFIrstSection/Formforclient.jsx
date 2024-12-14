@@ -5,7 +5,7 @@ import ThirdSectio from '../theThirdSection/ThirdSectio';
 import Projects from '../ourProject/Project';
 import Testimonials from '../HappyClients/Clients';
 import Last from '../LastSection/Last';
-import AdminRegisterForm from '../Admin.jsx/AdminRegisterForm';
+import AdminRegisterForm from '../Admin/AdminRegisterForm';
 
 const Formforclient = () => {
 
