@@ -5,7 +5,7 @@ import Formforclient from './Components/theFIrstSection/Formforclient';
 import Footer from './Components/Footer/Footer.jsx';
 import Admin from './Components/Admin/Admin.jsx';
 import UpdateTestimonial from './Components/Admin/UpdateTestimonial.jsx';
-import UpdateProject from './Components/Admin/UpdateProject.js';
+import UpdateProject from './Components/Admin/UpdateProject.jsx';
 import Testimonials from './Components/HappyClients/Clients.jsx';
 
 const Routing = () => {
